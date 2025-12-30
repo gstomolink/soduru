@@ -92,7 +92,7 @@ export default function RegisterPage() {
   return (
     <div className="min-h-screen bg-white px-4 py-8">
       <div className="max-w-md mx-auto">
-        <h1 className="text-2xl font-bold text-gray-900 mb-6 text-center">プロフィール登録</h1>
+        <h1 className="text-2xl font-bold text-gray-900 mb-6 text-center">User Registration</h1>
 
         <form onSubmit={handleSubmit} className="space-y-6">
           <div>
