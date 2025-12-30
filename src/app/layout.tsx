@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "soduru - Find a new meeting",
-  description: "soduru dating app",
+  title: "Soduru - Find a new meeting",
+  description: "Soduru dating app",
 };
 
 export default function RootLayout({
